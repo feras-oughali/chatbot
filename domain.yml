@@ -21,8 +21,6 @@ intents:
     use_entities: true
 - faq:
     use_entities: true
-- nlu_fallback:
-    use_entities: true
 entities: []
 slots: {}
 responses:
