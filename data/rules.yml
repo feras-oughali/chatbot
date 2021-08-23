@@ -16,3 +16,8 @@ rules:
   steps:
   - intent: faq
   - action: utter_faq
+
+- rule: fallback rule 
+  steps:
+  - intent: nlu_fallback
+  - action: utter_fallback
