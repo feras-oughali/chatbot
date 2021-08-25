@@ -24,6 +24,8 @@ intents:
 entities: []
 slots: {}
 responses:
+  utter_out_of_scope:
+  - text: Sorry, I can't handle that request.
   utter_greet:
   - text: Hey! How are you?
   utter_cheer_up:

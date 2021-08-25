@@ -119,3 +119,18 @@ nlu:
 - intent: faq/protein-q6
   examples: |
     - Is it good to take protein supplements?
+- intent: out_of_scope
+  examples: |
+    - I want to order food
+    - What is 2 + 2?
+    - Who's the US President?
+    - How to play football?
+    - Do you know how to reach home?
+    - I want to play basketball
+    - Can you suggest a good restaurant? 
+    - Does this help?
+    - How does this help me?
+    - Tell me a joke
+    - Is it going to rain?
+    - What is the weather like today?
+    
